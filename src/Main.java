@@ -9,10 +9,12 @@ public class Main {
     }
 
     private static void merhod1(){
+        System.out.println("Augh.");
 
     }
 
     private static void merhod2() {
+        System.out.println("Urgh.");
     }
 
     private static void merhod3(){
