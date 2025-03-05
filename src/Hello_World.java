@@ -5,6 +5,6 @@ public class Hello_World {
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.ENGLISH);
 
-        System.out.print("Oof y Oof.");
+        System.out.print("Hello off");
     }
 }
