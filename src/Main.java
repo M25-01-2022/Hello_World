@@ -12,8 +12,7 @@ public class Main {
 
     }
 
-    private static void merhod2(){
-
+    private static void merhod2() {
     }
 
     private static void merhod3(){
