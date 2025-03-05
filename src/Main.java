@@ -13,7 +13,7 @@ public class Main {
 
     private static void merhod2() {
 
-        System.out.println("Socrates");
+        System.out.println("Si");
     }
 
     private static void merhod3(){
