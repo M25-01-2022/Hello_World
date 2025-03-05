@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class Main {
     public static void main(String[] args) {
         merhod1();
@@ -9,19 +7,21 @@ public class Main {
     }
 
     private static void merhod1(){
-        System.out.println("Augh.");
+
 
     }
 
     private static void merhod2() {
-        System.out.println("Urgh.");
+
     }
 
     private static void merhod3(){
+        System.out.println("Eef.");
 
     }
 
     private static void merhod4(){
+        System.out.println("Eerf.");
 
     }
 }
