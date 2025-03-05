@@ -12,6 +12,6 @@ public class Hello_World {
         System.out.print("Youch.");
         System.out.print("Youch.");
         System.out.print("Youch.");
-        System.out.print("Youch.");
+        System.out.print("Wow.");
     }
 }
